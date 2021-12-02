@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 angle", "10 angle\10 angle.csproj", "{BCF24D61-A06B-41FD-BCB8-11AEBFD63BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF24D61-A06B-41FD-BCB8-11AEBFD63BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF24D61-A06B-41FD-BCB8-11AEBFD63BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF24D61-A06B-41FD-BCB8-11AEBFD63BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF24D61-A06B-41FD-BCB8-11AEBFD63BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B54A70A-842D-4ADE-947A-3C22FFE3660E}
+	EndGlobalSection
+EndGlobal
